@@ -8,7 +8,7 @@
     "highlight.js": "^9.10.0",
     "lodash": "^4.17.4",
     "normalize.css": "^5.0.0",
-    "nuxt": "^0.10.3"
+    "nuxt": "^1.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^7.2.1",
